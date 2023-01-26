@@ -1,0 +1,5 @@
+.carousel-item {
+  object-fit: cover;
+  background-color: #fff;
+  max-height: 850px;
+}
